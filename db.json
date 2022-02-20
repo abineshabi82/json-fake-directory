@@ -11,7 +11,8 @@
         "I am also trained and deployed as a java web developer (Spring : 5-2019 to 11-2019)"
       ]
     },
-    "projects":{
+    "projects":[
+      {
       "id":"1",
       "type":"angular",
       "brief":"Angular projects",
@@ -20,6 +21,26 @@
       "Part of UI developement and test run in armada production project (internal AWS service management application).",
       "And also resolved UI related issues apart from my project and also got client appreciation badges from their side."
       ]
+    },
+      {
+      "id":"2",
+      "type":"react",
+      "brief":"React project",
+      "description":[
+      "Developed a ui reusable components for drag and drop nodes with their relationship from entry node to exit node poc project (similar to amazon connect).",
+      "And also done some personal anime stream poc on react."
+      ]
+    },
+      {
+      "id":"3",
+      "type":"java",
+      "brief":"java project",
+      "description":[
+      "Key player on Developing internal organization Q&A forum trainee poc project using Spring MVC and mysql.",
+      "Key features are post ranking, automation deletion, re-post, search post and pagination.",
+      "And also done some poc's on hibernate ORM and spring boot on that time."
+      ]
     }
+      ]
   }
 }
