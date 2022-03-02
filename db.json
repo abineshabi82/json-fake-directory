@@ -16,11 +16,7 @@
       "id":"1",
       "type":"angular",
       "brief":"Angular projects",
-      "description":[
-      "Developed initial A&E dashbroad poc project (internal production projects analysis application) and carried out for production. Also got client love your work badge.",
-      "Part of UI developement and test run in armada production project (internal AWS service management application).",
-      "And also resolved UI related issues apart from my project and also got client appreciation badges from their side."
-      ]
+      "description":"Developed initial <b>A&E dashbroad poc project</b> (<b>internal production projects analysis application</b>) and carried out for production. Also got client love your work badge.<br /> Part of <b>UI developement</b> and <b>test run in armada production project</b> (<b>internal AWS service management application</b>).<br /> And also <b>resolved UI related issues</b> apart from my project and also got <b>client appreciation badges</b> from their side."
     },
       {
       "id":"2",
