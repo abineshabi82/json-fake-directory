@@ -22,20 +22,13 @@
       "id":"2",
       "type":"react",
       "brief":"React project",
-      "description":[
-      "Developed a ui reusable components for drag and drop nodes with their relationship from entry node to exit node poc project (similar to amazon connect).",
-      "And also done some personal anime stream poc on react."
-      ]
+      "description":"Developed a ui <b>reusable components</b> for drag and drop nodes with their relationship from entry node to exit node poc project (<b>similar to amazon connect</b>).<br /> And also done some <b>personal anime stream poc</b> on react."
     },
       {
       "id":"3",
       "type":"java",
-      "brief":"java project",
-      "description":[
-      "Key player on Developing internal organization Q&A forum trainee poc project using Spring MVC and mysql.",
-      "Key features are post ranking, automation deletion, re-post, search post and pagination.",
-      "And also done some poc's on hibernate ORM and spring boot on that time."
-      ]
+      "brief":"Java project",
+      "description":"Key player on Developing internal organization <b>Q&A forum trainee poc project</b> using <b>Spring MVC</b> and <b>mysql</b>.<br /> Key features are <b>post ranking, automation deletion, re-post, search post and pagination</b>.<br /> And also done some <b>poc's on hibernate ORM and spring boot</b> on that time."
     }
       ]
   }
