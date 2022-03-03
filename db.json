@@ -31,7 +31,7 @@
       "description":"Key player on Developing internal organization <b>Q&A forum trainee poc project</b> using <b>Spring MVC</b> and <b>mysql</b>.<br /> Key features are <b>post ranking, automation deletion, re-post, search post and pagination</b>.<br /> And also done some <b>poc's on hibernate ORM and spring boot</b> on that time."
     }
       ]
-  }
+  },
   "work":{
     "work-brief":"Here i showcased some of my <b>personel poc works</b> related to my core domain.",
     "work-links":[
