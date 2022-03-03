@@ -53,6 +53,88 @@
             "icon-alt":"covid",
             "link":"work/#covid"
           }
-      ]
-}
+      ],
+    "work-projects":[
+      {
+        "id":"portfolio",
+        "style":"portfolio",
+        "image":[
+          "lap video",
+          "phone",
+          "tab"
+        ],
+        "title":"Portfolio",
+        "description":"Created portfolio using Angular with Scss pre-processors without any external css framework or javascript library. Mainly focused on <b>responsive design</b>, <b>css animation with javascript manipulation</b>, <b>vector illusrations</b>, <b>3d rendering</b> and <b> visual mockups</b>.",
+        "links":[
+          {
+            "type":"github",
+            "link":"https://github.com/abineshabi82/portfolio",
+            "image":"assets/images/github.png",
+            "alt-image":"github",
+            "target":"portfolio"
+          },
+          {
+            "type":"website",
+            "link":"",
+            "image":"assets/images/link.png",
+            "alt-image":"link",
+            "target":"portfolio-link"
+          }
+        ]
+      },
+      {
+        "id":"anime-stream",
+        "style":"anime-stream",
+        "image":[
+          "lap video",
+          "phone",
+          "tab"
+        ],
+        "title":"Anime Stream",
+        "description":"Created anime app using React JS in a functional component approach with Scss pre-processors, bootstrap framework and public anime API. Mainly focused on <b>lifecycle hooks</b>, <b>responsive design</b>, <b>OKTA authenication and social login</b>, <b>PWA</b> and <b> node js api </b>for user management.But below demo does not connected to nodejs or OKTA.",
+        "links":[
+          {
+            "type":"stackblitz",
+            "link":"https://stackblitz.com/edit/animestream-okta",
+            "image":"assets/images/stackblitz.png",
+            "alt-image":"stackblitz",
+            "target":"animestream"
+          },
+          {
+            "type":"website",
+            "link":"https://animestream-okta.stackblitz.io/",
+            "image":"assets/images/link.png",
+            "alt-image":"link",
+            "target":"animestream-link"
+          }
+        ]
+      },
+      {
+        "id":"covid",
+        "style":"corona-tracker",
+        "image":[
+          "phone",
+          "tab"
+        ],
+        "title":"Corona Tracker",
+        "description":"Created covid case tracker app using Angular with bootstrap framework and public covid API. Mainly focused on <b>lifecycle hooks</b>, <b>adaptive design </b>(designed for mobile), <b>css animation with javascript manipulation</b>, <b>vector illusrations</b>.",
+        "links":[
+          {
+            "type":"stackblitz",
+            "link":"https://stackblitz.com/edit/coviddemo",
+            "image":"assets/images/stackblitz.png",
+            "alt-image":"stackblitz",
+            "target":"covid"
+          },
+          {
+            "type":"website",
+            "link":"https://coviddemo.stackblitz.io",
+            "image":"assets/images/link.png",
+            "alt-image":"link",
+            "target":"covid-link"
+          }
+        ]
+      }
+    ]
+  }
 }
