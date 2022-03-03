@@ -32,4 +32,28 @@
     }
       ]
   }
+  "work":{
+    "work-brief":"Here i showcased some of my <b>personel poc works</b> related to my core domain.",
+    "work-links":[
+          {
+            "title":"Portfolio",
+            "icon":"assets/images/workpic/portfolioicon.png",
+            "icon-alt":"portfolio",
+            "link":"work/#portfolio"
+          },
+          {
+            "title":"Anime Stream",
+            "icon":"assets/images/workpic/animeicon.png",
+            "icon-alt":"anime",
+            "link":"work/#anime-stream"
+          },
+          {
+            "title":"Covid Tracker",
+            "icon":"assets/images/workpic/covidicon.png",
+            "icon-alt":"covid",
+            "link":"work/#covid"
+          }
+      ],
+    "projects":[]
+}
 }
