@@ -136,5 +136,14 @@
         ]
       }
     ]
+  },
+  "skill":{
+    "set":["Language","UX/UI","Technology"],
+    "skill-level":["Expert","Advance","Intermediate","Elementary","Beginner"],
+    "skillsets":{
+      "Language":["HTML","CSS","JS","JAVA"],
+      "UX/UI":["Figma","2D Blender","3D Blender","Photoshop"],
+      "Technology":["Angular","React JS","Node JS","Spring Boot","SASS","Bootstrap"]
+    }
   }
 }
