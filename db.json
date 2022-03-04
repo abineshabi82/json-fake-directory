@@ -39,19 +39,19 @@
             "title":"Portfolio",
             "icon":"assets/images/workpic/portfolioicon.png",
             "icon-alt":"portfolio",
-            "link":"work/#portfolio"
+            "link":"portfolio"
           },
           {
             "title":"Anime Stream",
             "icon":"assets/images/workpic/animeicon.png",
             "icon-alt":"anime",
-            "link":"work/#anime-stream"
+            "link":"anime-stream"
           },
           {
             "title":"Covid Tracker",
             "icon":"assets/images/workpic/covidicon.png",
             "icon-alt":"covid",
-            "link":"work/#covid"
+            "link":"covid"
           }
       ],
     "work-projects":[
